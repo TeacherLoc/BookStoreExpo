@@ -6,7 +6,6 @@
 
 
 # Video Demo
-[![XEM THỰC HÀNH BUỔI 6]] (https://github.com/user-attachments/assets/755dc8ac-2977-4d5a-bde6-199b359f030d)
-**THỰC HÀNH BUỔI 6 NGÀY 16/05/2025**
+https://github.com/user-attachments/assets/d053d525-d828-415c-b7a9-51b880d22c49
 
 
